@@ -1,6 +1,8 @@
 # HR_Analytics_Dashboard
 
-Complete Analysis of employee records over the years with various metrics, charts, distributions and visualization from an HR's point of view. You can view the final product by accessing the [Snapshot](HR_Snapshot.png) in the repository.
+Complete Analysis of employee records over the years with various metrics, charts, distributions and visualization from an HR's point of view.
+
+![HR_Snapshot](https://github.com/kssmp/HR_Analytics_Dashboard/assets/115448106/a5f5359c-5d88-446c-b9e1-2ca7216ac984)
 
 
 ## Features
